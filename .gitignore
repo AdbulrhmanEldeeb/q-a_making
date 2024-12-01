@@ -1,0 +1,63 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# Coverage reports
+*.cover
+*.coverage
+*.coverage.*
+*.hypothesis/
+*.tox/
+
+# Python-related logs
+*.log
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+
+# mypy
+.mypy_cache/
+
+# Sphinx
+_docs/_build/
+build/
+
+# Pylint
+pylint-report.txt
+pylint-global.txt
+
+
+# other 
+.env 
+data/*
+unused_data/*
