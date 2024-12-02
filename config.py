@@ -10,6 +10,8 @@ GROQ_API_KEYS = [
     os.getenv('GROQ_API_KEY_3'),
 ]
 
+
+# available llms on groq 
 GROQ_MODELS = [
     'llama3-groq-70b-8192-tool-use-preview',
     'llama3-groq-8b-8192-tool-use-preview',
